@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="./logo.png" alt="logo" width="200" height="auto" />
+  <img src="./logo.png" alt="logo"  height="auto" />
   <h1>Flash Generator</h1>
   
   <p>
